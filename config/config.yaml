@@ -1,0 +1,11 @@
+data:
+  hf_dataset_name: "it4lia/PhishingEmailCuratedDatasets_Cleaned"
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  test_size: 0.15
+  val_size: 0.15
+  random_seed: 42
+
+models:
+  distilbert_name: "distilbert-base-uncased"
+  ollama_model: "llama3:8b" # nebo mistral, phi3

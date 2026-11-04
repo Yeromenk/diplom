@@ -1,0 +1,16 @@
+datasets
+pandas
+numpy
+scikit-learn
+scipy
+beautifulsoup4
+lxml
+tldextract
+pyyaml
+jupyter
+matplotlib
+seaborn
+xgboost
+torch
+transformers
+accelerate>=1.1.0
