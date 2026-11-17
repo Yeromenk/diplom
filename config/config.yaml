@@ -8,4 +8,4 @@ data:
 
 models:
   distilbert_name: "distilbert-base-uncased"
-  ollama_model: "llama3:8b" # nebo mistral, phi3
+  ollama_model: "qwen2.5:7b"
